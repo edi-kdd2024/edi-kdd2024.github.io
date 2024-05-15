@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /financial-support/
-title: Financial support initiatives
+title: Financial support
 description: Financial support initiatives
 nav: true
 
