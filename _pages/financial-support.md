@@ -34,3 +34,5 @@ In order to participate to the award selection, candidates are asked to:
 - Complete [the information form](https://docs.google.com/forms/d/e/1FAIpQLSfEUXDZddBt5GSTSlSGjmNrJZxkg9HJeAcTeDTcsXiwR6BUTQ/viewform?usp=sf_link) and paste within it a cover letter, describing why they feel their participation would foster diversity in participation in the selected event.
 - Awardees will be asked to write a short article about their participation in the event and current research work which will be published on the [SoBigData website and publications](http://www.sobigdata.eu/).
 - Awardees will be asked to give permission to the SoBigData consortium to use their name and image on the SoBigData communication channels and publications.
+
+Deadline July 10th, 2024
