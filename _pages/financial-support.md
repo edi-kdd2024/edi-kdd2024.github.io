@@ -35,4 +35,4 @@ In order to participate to the award selection, candidates are asked to:
 - Awardees will be asked to write a short article about their participation in the event and current research work which will be published on the [SoBigData website and publications](http://www.sobigdata.eu/).
 - Awardees will be asked to give permission to the SoBigData consortium to use their name and image on the SoBigData communication channels and publications.
 
-Deadline: <b><u>July 10th, 2024</u></b>
+Deadline: <b><u>July 15th, 2024</u></b>
