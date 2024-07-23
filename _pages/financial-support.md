@@ -18,7 +18,7 @@ Computer and Data science currently fail to adequately address equality and dive
 <h3>About the Award</h3>
 - The SoBigData Award for Diversity and Inclusion is fully sponsored by the SoBigData++ Horizon2020 project.
 - SoBigData++ will sponsor this event with two awards
-- The maximum sum allotted for each individual will be €1.100.
+- The maximum sum allotted for each individual will be €1100.
 - The sums spent by the awardee will be reimbursed only after they have been spent.
 - Expenditures can go towards event registration fees, transportation costs and accommodation costs. 
 
@@ -35,4 +35,4 @@ In order to participate to the award selection, candidates are asked to:
 - Awardees will be asked to write a short article about their participation in the event and current research work which will be published on the [SoBigData website and publications](http://www.sobigdata.eu/).
 - Awardees will be asked to give permission to the SoBigData consortium to use their name and image on the SoBigData communication channels and publications.
 
-Deadline: <b><u>July 15th, 2024</u></b>
+Deadline: <b><u>August 6th, 2024</u></b>
