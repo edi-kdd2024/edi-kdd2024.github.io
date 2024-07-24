@@ -43,7 +43,7 @@ nav: true
 
 <div style="display: flex; align-items: center;">
   <!-- Image on the left -->
-  <img src="/assets/img/Moreno-LaQuatra.jpg" alt="Description" style="width: 150px; margin-right: 20px;">
+  <img src="/assets/img/mlq_image.jpg" alt="Description" style="width: 150px; margin-right: 20px;">
 
   <!-- Text on the right -->
   <div>
@@ -52,4 +52,4 @@ nav: true
   </div>
 </div>
 <h3>Title: Promoting Inclusivity through Natural Language Processing</h3>
-<b>Abstract:</b> TBD
+<b>Abstract:</b> Language has the power to promote inclusivity and respect, but it can also reinforce bias and discrimination, reflecting the inequalities of our world. Building a fairer society requires addressing these issues head-on. While modern AI models often exhibit intrinsic biases, researchers worldwide are working to resolve these problems. This talk takes a different perspective by exploring how deep learning and natural language processing (NLP) approaches can be used as a tool to identify non-inclusive language and suggest more inclusive alternatives. The talk will also introduce the Inclusively tool, which provides interfaces to AI models that can be used to proofread text for inclusivity. Designed for both general users and experts, it encourages feedback and continuous improvement through a human-in-the-loop approach.
