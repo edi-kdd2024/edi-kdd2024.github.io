@@ -16,7 +16,7 @@ nav: true
 
   <!-- Text on the right -->
   <div>
-    <b>Speaker:</b> Dr. William Agnew<br>
+    <b><big>Speaker: Dr. William Agnew</big></b><br>
     <b>Pronouns:</b> He/They <br>
     <b>Bio:</b> Dr. William Agnew is a CBI postdoc fellow at CMU. William received his Ph.D. from University of Washington with Sidd Srinivasa, where he worked on AI ethics, critical AI, and robotics. William also helped found Queer in AI. William is interested in developing and sharing tools and ideas that go beyond participatory design and allow marginalized individuals and communities to own and meaningfully control their data and models derived from that data. Building on ideas from usable security/privacy, usage licenses, and indigenous data sovereignty, William wants to contribute to data and AI futures where individuals and communities know where their data is and can remove, add, or change their data in different datasets.
   </div>
@@ -32,7 +32,7 @@ nav: true
 
   <!-- Text on the right -->
   <div>
-    <b>Speaker:</b> Prof. Karina Gibert<br>
+    <b><big>Speaker: Prof. Karina Gibert</big></b><br>
     <b>Bio:</b> PhD. Karina Gibert [♀] google H-index: 32 Twitter @karinagibertk,  karina.gibert@upc.edu, https://www.eio.upc.edu/en/homepages/karina, Full Professor at the Universitat Politècnica de Catalunya-BarcelonaTech. Bachelor and PhD in Informatics Engineering with specialities in Computational Statistics and Artificial Intelligence.  Director and cofounder of the research center  Intelligent Data Science and Artificial Intelligence (IDEAI). Dean  of the Official Professional College  of Informatics Engineering of Catalonia (COEINF). Vicepresident of the Spanish General Council of Professional Colleges of Informatics Engineering (2023-). Expert and co-writer of the Catalan Strategy for AI, Catalonia.ai. Member of the Committee for the Ethics of Data from Catalan Government (2021-). Member of the Board of Directors of the Program in Health and AI of Catalan Government (2023-). Advisory Board of EIT-Artificial Intelligence (2023-). Expert from the Senate and Advisor of SEDIA in ethics in AI and digital transformation. Advisor of WHO in characterizing mental health systems (2008-2010). Avisor of EC in ethics in AI (2919-2020).
 Very active in bridging the gender gap in the STEAM sector she founded up to 5 gender working groups (donesCOEINF, donesIAcat, donesIDEAI, Mujeres en ingeniería informática, EDI-iEmss). WiDS (Stanford)  ambassador for Barcelona (2021-). Vicepresident of Barcelona Chapter of Women in ACM (2022-). Editor of JRC journal Environmental Modeling and Software, Elsevier, (Jan 2018-). Elected Fellow iEMSs 2007.
 Her main research interests are to extract strategic knowledge from data and intelligent systems from an ethics and explainable perspective. Principal researcher of projects like Diet4You , INSESS-COVID19 Top Rosies Talent or ciutadanIA. PI at UPC of the postdoctoral COFUND program Ramon Llull (2023-). Essential characteristics of her research are the multidisciplinarity, the externalization, the internationalization,  technology transfer and social use of technology.<br>
@@ -49,7 +49,7 @@ Her main research interests are to extract strategic knowledge from data and int
 
   <!-- Text on the right -->
   <div>
-    <b>Speaker:</b> Dr. Moreno La Quatra<br>
+    <b><big>Speaker: Dr. Moreno La Quatra</big></b><br>
     <b>Bio:</b> Moreno La Quatra is a Research Fellow at the Speech Technologies and Machine Learning Lab at Kore University of Enna (Italy). Moreno's research focuses on deep learning, audio processing, and natural language processing, with a particular emphasis on inclusive communication. He has significantly contributed to the E-MIMIC project, which aims at detecting and correcting non-inclusive language usage in text across multiple languages. His work emphasizes the importance of language as a tool for inclusivity and social change. Moreno is committed to developing NLP and AI methodologies that promote respectful and inclusive communication, ensuring that language use reflects and respects diversity in all its forms.
   </div>
 </div>
@@ -65,7 +65,7 @@ Her main research interests are to extract strategic knowledge from data and int
 
   <!-- Text on the right -->
   <div>
-    <b>Speaker:</b> Sophie Mulot<br>
+    <b><big>Speaker: Sophie Mulot</big></b><br>
     <b>Pronouns:</b> She/Her <br>
     <b>Bio:</b> Sophie Mulot is a Senior Diversity, Equity and Inclusion Leader at Amazon. With over 15 years of HR, Talent, and DEI experience, she supports organizations in making their culture a competitive advantage. Her mission is to empower people and teams to achieve their full potential and to contribute to organizational success. She believes that Inclusion is a powerful force when it’s built into products and services from the start and that it enables to serve customers better.
     </div>

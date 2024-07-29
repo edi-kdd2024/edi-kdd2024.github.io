@@ -24,7 +24,7 @@ Wednesday, August 28th, 2024
 **1:00 pm – 2:00 pm** - Lunch in Exhibit Hall and Networking
 
 **2:00 AM - 2:30 PM Session II** - *"EDI policies and best practices"*<br>
-**2:00 AM - 2:30 PM** Dr. Sophie Mulot (Amazon) - *title to be defined*<br>
+**2:00 AM - 2:30 PM** Dr. Sophie Mulot (Amazon) - *Inclusive eXperiences in the workplace*<br>
 
 **2:30 PM-3:30 PM Section  III** - *"Empowering individuals to do their best"*<br>
 **2:30 PM - 3:00 PM** Prof. Carlos "ChaTo" Castillo (Universitat Pompeu Fabra, Barcelona) - *A late non-binary transition*<br>
