@@ -25,7 +25,7 @@ nav: true
 
 <div style="display: flex; align-items: center;">
 <!-- Image on the left -->
-  <img src="/assets/img/Amin_Mantrac.png" alt="Description" style="width: 150px; margin-right: 20px;">
+  <img src="/assets/img/Amin_Mantrac_2.png" alt="Description" style="width: 150px; margin-right: 20px;">
 
   <!-- Text on the right -->
   <div>
