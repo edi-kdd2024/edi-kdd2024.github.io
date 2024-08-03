@@ -13,7 +13,7 @@ Barcelona, Spain | Centre de Convencions Internacional de Barcelona, Spain
 Wednesday, August 28th, 2024
 
 **Chairs:** Tania Cerquitelli, Amin Mantrach
-
+<!---
 **11:00 AM-11:15 AM** - *Opening Remarks*
 
 **11:15 AM-13:00 PM - Session I** - *"Keynote Speakers"*<br>
@@ -33,7 +33,7 @@ Wednesday, August 28th, 2024
 **3:30 PM-3:55 PM Section IV** - *"Collaborative Design of an EDI Manifesto"*<br>
 
 **3:55-4:00** Closing Remarks
-
+--->
 
 
 <table style="width:100%; border-collapse: collapse;">
