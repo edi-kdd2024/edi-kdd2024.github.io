@@ -15,7 +15,7 @@ nav: true
 
   <!-- Text on the right -->
   <div>
-    <b>Speaker:</b> Carlos Castillo<br>
+    <b>Speaker:</b> Prof. Carlos Castillo<br>
     <b>Pronouns:</b> They/Them <br>
     <b>Bio:</b>  Carlos Castillo (they/them) is an ICREA Research Professor at Universitat Pompeu Fabra in Barcelona, where they lead the Web Science and Social Computing research group. They are a web miner with a background in information retrieval and have been influential in the areas of crisis informatics, web content quality and credibility, and adversarial web search. They are a prolific, highly cited researcher who has co-authored over 110 publications in top-tier international conferences and journals, receiving two test-of-time awards, five best paper awards, and two best student paper awards. Their works include a book on Big Crisis Data, as well as monographs on Information and Influence Propagation, and Adversarial Web Search.
   </div>

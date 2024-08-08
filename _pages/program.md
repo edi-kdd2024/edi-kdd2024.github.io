@@ -53,7 +53,7 @@ Wednesday, August 28th, 2024
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">2:30 PM - 3:00 PM</td>
-    <td style="border: 1px solid #ddd; padding: 8px; ">Prof. Carlos "ChaTo" Castillo (Universitat Pompeu Fabra, Barcelona) <br> <i>"AI and gender issues"</i></td>
+    <td style="border: 1px solid #ddd; padding: 8px; ">Prof. Carlos "ChaTo" Castillo (Universitat Pompeu Fabra, Barcelona) <br> <i>"A late non-binary transition"</i></td>
   </tr>
     <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">3:00 PM - 3:30 PM</td>
