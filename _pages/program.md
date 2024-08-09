@@ -64,7 +64,7 @@ Wednesday, August 28th, 2024
     <td style="border-top: 1px solid #ddd; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"> <b>Session IV - Collaborative Design of an EDI Manifesto</b></td>
   </tr>
   <tr>
-    <td style="border-top: 1px solid #ddd; border-left: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"><b>3:30 PM - 3:55 PM</b></td>
+    <td style="border-top: 1px solid #ddd; border-left: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"><b>3:55 PM - 4:00 PM</b></td>
     <td style="border-top: 1px solid #ddd; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"> <b>Closing Remarks</b></td>
   </tr>
 </table>

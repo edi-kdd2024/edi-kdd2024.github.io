@@ -29,7 +29,7 @@ nav: true
 
   <!-- Text on the right -->
   <div>
-    <b>Organizer:</b> Amin Mantrach<br>
+    <b>Organizer:</b> Dr. Amin Mantrach<br>
     <b>Pronouns:</b> He/Him/His <br>
     <b>Affiliation:</b> Amazon, Luxembourg <br>
   </div>
