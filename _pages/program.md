@@ -55,16 +55,16 @@ Wednesday, August 28th, 2024
     <td style="border: 1px solid #ddd; padding: 8px;">2:30 PM - 3:00 PM</td>
     <td style="border: 1px solid #ddd; padding: 8px; ">Prof. Carlos "ChaTo" Castillo (Universitat Pompeu Fabra, Barcelona) <br> <i>"A late non-binary transition"</i></td>
   </tr>
-    <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">3:00 PM - 3:30 PM</td>
-    <td style="border: 1px solid #ddd; padding: 8px; ">To be defined <br> <i>"TBD"</i></td>
-  </tr>
   <tr>
-    <td style="border-top: 1px solid #ddd; border-left: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"><b>3:30 PM - 3:55 PM</b></td>
+    <td style="border-top: 1px solid #ddd; border-left: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"><b>3:00 PM - 3:50 PM</b></td>
     <td style="border-top: 1px solid #ddd; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"> <b>Session IV - Collaborative Design of an EDI Manifesto</b></td>
   </tr>
   <tr>
-    <td style="border-top: 1px solid #ddd; border-left: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"><b>3:55 PM - 4:00 PM</b></td>
+    <td style="border: 1px solid #ddd; padding: 8px;">3:00 PM - 3:50 PM</td>
+    <td style="border: 1px solid #ddd; padding: 8px; ">Matteo Berta (Politecnico di Torino) <br> <i>"Interactive Design of an EDI Manifesto"</i></td>
+  </tr>
+  <tr>
+    <td style="border-top: 1px solid #ddd; border-left: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"><b>3:50 PM - 4:00 PM</b></td>
     <td style="border-top: 1px solid #ddd; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"> <b>Closing Remarks</b></td>
   </tr>
 </table>
