@@ -21,4 +21,3 @@ nav: true
   </div>
 </div>
 <h5><b>Title:</b> A late non-binary transition</h5>
-<b>Abstract:</b> TBD

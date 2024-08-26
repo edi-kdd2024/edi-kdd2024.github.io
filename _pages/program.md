@@ -12,7 +12,7 @@ EDI@KDD 2024<br>
 
 **Wednesday August 28th, 2024 -- from 11:00 AM to 16:00 PM** <br>
 
-**Location:** *Area 114 -- Centre de Convencions Internacional de Barcelona, Spain*
+**Location: Room 114** -- *Centre de Convencions Internacional de Barcelona, Spain*
 
 **Chairs:** Tania Cerquitelli, Amin Mantrach 
 
