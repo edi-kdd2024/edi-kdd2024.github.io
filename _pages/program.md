@@ -8,11 +8,12 @@ nav: true
 ---
 
 <h1><b>Program</b></h1>
-Equity, Diversity & Inclusion special day @ ACM KDD 2024
-Barcelona, Spain | Centre de Convencions Internacional de Barcelona, Spain
-Wednesday, August 28th, 2024
+<h3>Program EDI@KDD 2024<br>
+Wednesday August 28th, 2024 -- from 11:00 AM to 16:00 PM <br>
 
-**Chairs:** Tania Cerquitelli, Amin Mantrach
+**Location:** Area 114 -- Centre de Convencions Internacional de Barcelona, Spain</h3>
+
+**Chairs:** Tania Cerquitelli, Amin Mantrach 
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
