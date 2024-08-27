@@ -46,11 +46,11 @@ EDI@KDD 2024<br>
     <td style="border-top: 1px solid #ddd; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"><b>Networking Lunch in Exhibit Hall</b></td>
   </tr>
   <tr>
-    <td style="border-top: 1px solid #ddd; border-left: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"><b>2:00 AM - 2:30 PM</b></td>
+    <td style="border-top: 1px solid #ddd; border-left: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"><b>2:00 PM - 2:30 PM</b></td>
     <td style="border-top: 1px solid #ddd; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; padding: 8px;"> <b>Session II - EDI policies and best practices</b></td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">2:00 AM - 2:30 PM</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">2:00 PM - 2:30 PM</td>
     <td style="border: 1px solid #ddd; padding: 8px; ">Dr. Sophie Mulot (Amazon) <br> <i>"Inclusive eXperiences in the workplace"</i></td>
   </tr>
   <tr>
